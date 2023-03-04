@@ -1,14 +1,7 @@
-body{
-background:url("office\ 1.jpg") no-repeat;
-background-size: 500px 600px;
-
-
-}
-
-.texto{
-    border:solid;
-    width:300px;
-    
+body,html{
+    height: 100%;
+    margin: 0;
+    padding:0;
 }
 #hoja{
 
